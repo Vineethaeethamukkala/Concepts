@@ -44,4 +44,6 @@ Host github.com-t
 ~ --> /c/Users/Gaya3r/
 
 below line tells you are referring to another github account
-git remote add origin git@github.com-t:sivadevopsdaws74s/concepts.git
+git remote add origin git@github.com-t:Vineethaeethamukkala/Concepts.git/concepts.git
+
+
